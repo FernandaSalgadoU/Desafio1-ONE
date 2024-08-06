@@ -9,9 +9,7 @@
 /*font-family: "Inter", sans-serif;*/
 
 body{
-    background-color:#F3F5FC;
-    /*background-repeat: no-repeat;*/
-   /*background-size: cover;*/
+    background-color:#F3F5FC !important;
 }
 
 .header{
