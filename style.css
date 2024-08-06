@@ -8,8 +8,8 @@
 
 /*font-family: "Inter", sans-serif;*/
 
-html{
-   background: linear-gradient(to bottom, #E9ECF8, #F3F5FC)!important;
+body{
+   background-color: linear-gradient(to bottom, #E9ECF8, #F3F5FC)!important;
 }
 
 .header{
@@ -325,6 +325,10 @@ html{
 
 /*Responsibidad*/
 @media(max-width:900px){
+    body{
+       background-color: linear-gradient(to bottom, #E9ECF8, #F3F5FC)!important;
+    }
+    
     .header_titulo{
 
         color:white;
