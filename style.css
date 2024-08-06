@@ -10,6 +10,7 @@
 
 body{
    background-image: linear-gradient(to bottom, #E9ECF8, #F3F5FC);
+   background-position: center center;
    background-repeat: no-repeat;
    background-size: cover;
 }
