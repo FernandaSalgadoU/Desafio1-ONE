@@ -9,7 +9,7 @@
 /*font-family: "Inter", sans-serif;*/
 
 body{
-   background-color:black;
+   background-image:linear-gradient(to bottom, black, white);
 }
 
 .header{
