@@ -9,7 +9,7 @@
 /*font-family: "Inter", sans-serif;*/
 
 body{
-    background-color:#F3F5FC;
+   background-color:#F3F5FC;
 }
 
 .header{
@@ -325,7 +325,7 @@ body{
 
 /*Responsibidad*/
 @media(max-width:900px){
-    
+
     .header_titulo{
 
         color:white;
