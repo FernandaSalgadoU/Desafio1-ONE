@@ -11,7 +11,7 @@
 body{
    background-image:linear-gradient(to bottom, black, white);
     background-repeat: no-repeat;
-   background-size: cover;
+   /*background-size: cover;*/
 }
 
 .header{
